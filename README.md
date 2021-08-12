@@ -1,7 +1,7 @@
 ### Hi there, I'm Adarsh S Kumar [adarshskumar][website] 👋
 
-[![Website](https://i.pinimg.com/originals/1d/b9/9d/1db99daa9371bf0989f05a0bc12e2b9e.png)](https://adarshskumar.github.io/blog/)
-[![Twitter Follow](https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png)](https://twitter.com/adarsh_gamerboy)
+<!-- [![Website](https://i.pinimg.com/originals/1d/b9/9d/1db99daa9371bf0989f05a0bc12e2b9e.png)](https://adarshskumar.github.io/blog/)
+[![Twitter Follow](https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png)](https://twitter.com/adarsh_gamerboy) -->
 
 ## I'm a Flutter Developer!!
 
