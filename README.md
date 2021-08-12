@@ -26,11 +26,11 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />]
 [<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />]
-[<img align="left" alt="python" width="26px" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" />]
 [<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="pr" width="26px" src="https://www.flstudiocrack.org/wp-content/uploads/2021/05/adobe-premiere-pro-logo-3-5294706.png" />]
 [<img align="left" alt="ps" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" />]
+[<img align="left" alt="python" width="26px" src="https://image.pngaaa.com/282/619282-middle.png" />]
 
 <br />
 <br />
