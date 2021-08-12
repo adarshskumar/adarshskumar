@@ -1,7 +1,7 @@
 ### Hi there, I'm Adarsh S Kumar [adarshskumar][website] 👋
 
-[![Website](website)](https://adarshskumar.github.io/blog/)
-[![Twitter Follow](Twitter)](https://twitter.com/adarsh_gamerboy)
+[![Website](https://i.pinimg.com/originals/1d/b9/9d/1db99daa9371bf0989f05a0bc12e2b9e.png)](https://adarshskumar.github.io/blog/)
+[![Twitter Follow](https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png)](https://twitter.com/adarsh_gamerboy)
 
 ## I'm a Flutter Developer!!
 
@@ -25,8 +25,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2752187-2285004.png" />]
-[<img align="left" alt="pr" width="26px" src="https://logowik.com/content/uploads/images/adobe-premiere-20209132.jpg" />]
-[<img align="left" alt="ps" width="26px" src="https://iconape.com/wp-content/files/ix/373285/png/373285.png" />]
+[<img align="left" alt="pr" width="26px" src="https://cdn.imgbin.com/21/24/14/imgbin-adobe-premiere-pro-adobe-creative-cloud-adobe-systems-adobe-after-effects-material-exchange-format-adobe-adobe-pr-logo-illustration-g8NVHSq2UTtQYr62SwxxWs63S.jpg" />]
+[<img align="left" alt="ps" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" />]
 [<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />]
 
 <br />
