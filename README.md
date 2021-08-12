@@ -6,7 +6,7 @@
 ## I'm a Flutter Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking for Flutter Developers
 - ⚡ Fun fact: Gaming 🎮
 
 ### Connect with me:
